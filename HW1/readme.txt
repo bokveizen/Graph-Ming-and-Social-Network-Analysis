@@ -1,0 +1,2 @@
+Not much to say as this assignment is more like a tutorial for scipy.sparse.
+If you only want the degree distribution, the computation of adjacent matrix is actually unnecessary, appyling Kronecker product only on degrees is enough. I did corresponding implementation in Analysis.py (the Analysis_faster class).
