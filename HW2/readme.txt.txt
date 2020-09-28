@@ -1,0 +1,2 @@
+It's quite straightforward, so I don't have anything special to say.
+By the way, I have a question. Why do you want the scores to be in the dictionary form? In my opinion, list or array can perform identically as here the keys are just the indices so the properties of hash table cannot be utilized.
